@@ -1,6 +1,6 @@
 # Projeto de Inclusão Digital na Educação Infantil - CMEI Quatro Barras
 
-Este repositório contém a documentação técnica, planejamento e curadoria de mídias digitais utilizadas no projeto de extensão acadêmica voltado à inclusão digital infantil. O projeto foi aplicado presencialmente em um Centro Municipal de Educação Infantil (CMEI) no município de Quatro Barras - PR[cite: 2].
+Este repositório contém a documentação técnica, planejamento e curadoria de mídias digitais utilizadas no projeto de extensão acadêmica voltado à inclusão digital infantil. O projeto foi aplicado presencialmente em um Centro Municipal de Educação Infantil (CMEI) [cite: 2].
 
 ## Objetivos do Projeto
 * **Introduzir** noções básicas de interação digital para crianças da primeira infância através de uma Smart TV[cite: 2].
